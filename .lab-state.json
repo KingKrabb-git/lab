@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "KingKrabb-git/lab",
   "mainRulesetId": 25828321,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-1536.crm.dynamics.com",
+  "devEnvId": "187a1bbd-ff0d-eb11-a6be-90e1d24f0213",
+  "devOrgId": "f03a1581-dacf-f111-be88-7ced8d71460f",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-1536.crm.dynamics.com",
+  "testEnvId": "94205711-0d3a-e1ec-bdd7-631eb37e3e12",
+  "testOrgId": "3462dece-d9cf-f111-be87-6045bd06d90d",
+  "testProfile": "test"
 }
