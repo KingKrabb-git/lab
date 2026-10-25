@@ -10,7 +10,6 @@
     <RolePrivilege name="prvCreatelab_warehouseitem" level="Global" />
     <RolePrivilege name="prvCreatelab_warehousetransaction" level="Basic" />
     <RolePrivilege name="prvCreateSharePointData" level="Global" />
-    <RolePrivilege name="prvDeletelab_warehousetransaction" level="Basic" />
     <RolePrivilege name="prvReadlab_warehouseitem" level="Global" />
     <RolePrivilege name="prvReadlab_warehouselocation" level="Global" />
     <RolePrivilege name="prvReadlab_warehousetransaction" level="Global" />
